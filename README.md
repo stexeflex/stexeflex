@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">🎮 stexeflex</h1>
 
-<!--
-**stexeflex/stexeflex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Meine Browser-Games – direkt online spielbar.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ Games
+
+### 🟢 SlimeSlayer
+
+[![Play SlimeSlayer](https://img.shields.io/badge/▶_PLAY-SlimeSlayer-2ea44f?style=for-the-badge)](https://slimeslayer-stexeflex.onrender.com)
+
+### ⚔️ RiftBound
+
+[![Play RiftBound](https://img.shields.io/badge/▶_PLAY-RiftBound-7c3aed?style=for-the-badge)](https://riftbound-stexeflex.onrender.com)
+
+### 🗡️ WeaponThrowingSlayer
+
+[![Play WeaponThrowingSlayer](https://img.shields.io/badge/▶_PLAY-WeaponThrowingSlayer-d97706?style=for-the-badge)](https://weaponthrowingslayer-stexeflex.onrender.com)
+
+### 🧟 ZombieDefense
+
+[![Play ZombieDefense](https://img.shields.io/badge/▶_PLAY-ZombieDefense-b91c1c?style=for-the-badge)](https://zombie-defense-stexeflex.onrender.com)
+
+---
+
+<p align="center">
+  Hosted on Render
+</p>
