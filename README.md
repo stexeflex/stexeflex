@@ -22,7 +22,7 @@
 
 ### ⛏️ DeepSmith
 
-[![Play DeepSmith](https://img.shields.io/badge/▶_PLAY-DeepSmith-2563eb?style=for-the-badge)](https://deepsmith-coop.onrender.com)
+[![Play DeepSmith](https://img.shields.io/badge/▶_PLAY-DeepSmith-2563eb?style=for-the-badge)](https://deepsmith-stexeflex.onrender.com)
 
 ### 🧟 ZombieDefense
 
