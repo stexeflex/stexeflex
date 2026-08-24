@@ -16,9 +16,13 @@
 
 [![Play RiftBound](https://img.shields.io/badge/▶_PLAY-RiftBound-7c3aed?style=for-the-badge)](https://riftbound-stexeflex.onrender.com)
 
-### 🗡️ WeaponThrowingSlayer
+### 🗡️ Hurlforge
 
-[![Play WeaponThrowingSlayer](https://img.shields.io/badge/▶_PLAY-WeaponThrowingSlayer-d97706?style=for-the-badge)](https://weaponthrowingslayer-stexeflex.onrender.com)
+[![Play Hurlforge](https://img.shields.io/badge/▶_PLAY-Hurlforge-d97706?style=for-the-badge)](https://weaponthrowingslayer-stexeflex.onrender.com)
+
+### ⛏️ DeepSmith
+
+[![Play DeepSmith](https://img.shields.io/badge/▶_PLAY-DeepSmith-2563eb?style=for-the-badge)](https://deepsmith-coop.onrender.com)
 
 ### 🧟 ZombieDefense
 
