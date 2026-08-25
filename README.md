@@ -24,6 +24,10 @@
 
 [![Play DeepSmith](https://img.shields.io/badge/▶_PLAY-DeepSmith-2563eb?style=for-the-badge)](https://deepsmith-stexeflex.onrender.com)
 
+### 🧹 Blackbrooms
+
+[![Play Blackbrooms](https://img.shields.io/badge/▶_PLAY-Blackbrooms-9333ea?style=for-the-badge)](https://blackbrooms-stexeflex.onrender.com)
+
 ### 🧟 ZombieDefense
 
 [![Play ZombieDefense](https://img.shields.io/badge/▶_PLAY-ZombieDefense-b91c1c?style=for-the-badge)](https://zombie-defense-stexeflex.onrender.com)
