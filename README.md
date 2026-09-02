@@ -8,6 +8,10 @@
 
 ## 🕹️ Games
 
+### 🔗 TetherTogether
+
+[![Play TetherTogether](https://img.shields.io/badge/▶_PLAY-TetherTogether-0ea5e9?style=for-the-badge)](https://tethertogether-stexeflex.onrender.com)
+
 ### 🟢 SlimeSlayer
 
 [![Play SlimeSlayer](https://img.shields.io/badge/▶_PLAY-SlimeSlayer-2ea44f?style=for-the-badge)](https://slimeslayer-stexeflex.onrender.com)
