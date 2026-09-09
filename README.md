@@ -8,7 +8,7 @@
 
 ## 🕹️ Games
 
-### ♠️ Poukea (Poker Coop)
+### ♠️ Poukea (Poker, Flip 7 & UNO Coop)
 
 [![Play Poukea](https://img.shields.io/badge/▶_PLAY-Poukea-16a34a?style=for-the-badge)](https://poukea-stexeflex.onrender.com)
 
