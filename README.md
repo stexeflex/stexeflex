@@ -8,6 +8,10 @@
 
 ## 🕹️ Games
 
+### ♠️ Poukea (Poker Coop)
+
+[![Play Poukea](https://img.shields.io/badge/▶_PLAY-Poukea-16a34a?style=for-the-badge)](https://poukea-stexeflex.onrender.com)
+
 ### 🔗 TetherTogether
 
 [![Play TetherTogether](https://img.shields.io/badge/▶_PLAY-TetherTogether-0ea5e9?style=for-the-badge)](https://tethertogether-stexeflex.onrender.com)
