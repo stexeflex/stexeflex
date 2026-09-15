@@ -1,12 +1,16 @@
 <h1 align="center">🎮 stexeflex</h1>
 
 <p align="center">
-  Meine Browser-Games – direkt online spielbar.
+  Meine Browser-Games & Tools – direkt online ausprobieren.
 </p>
 
 ---
 
 ## 🕹️ Games
+
+### ⚔️ Klingenpakt
+
+[![Play Klingenpakt](https://img.shields.io/badge/▶_PLAY-Klingenpakt-0f766e?style=for-the-badge)](https://klingenpakt-stexeflex.onrender.com)
 
 ### ♠️ Poukea (Poker, Flip 7, UNO & Songless Coop)
 
@@ -39,6 +43,12 @@
 ### 🧟 ZombieDefense
 
 [![Play ZombieDefense](https://img.shields.io/badge/▶_PLAY-ZombieDefense-b91c1c?style=for-the-badge)](https://zombie-defense-stexeflex.onrender.com)
+
+## 🛠️ Tools
+
+### 🎭 FaceChanger · Face Lab
+
+[![Open FaceChanger](https://img.shields.io/badge/▶_OPEN-FaceChanger-84cc16?style=for-the-badge)](https://facechanger-stexeflex.onrender.com)
 
 ---
 
