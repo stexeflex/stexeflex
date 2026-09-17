@@ -8,6 +8,10 @@
 
 ## 🕹️ Games
 
+### 🧟 ZombieFloor
+
+[![Play ZombieFloor](https://img.shields.io/badge/▶_PLAY-ZombieFloor-65a30d?style=for-the-badge)](https://zombiefloor-stexeflex.onrender.com)
+
 ### ⚔️ Klingenpakt
 
 [![Play Klingenpakt](https://img.shields.io/badge/▶_PLAY-Klingenpakt-0f766e?style=for-the-badge)](https://klingenpakt-stexeflex.onrender.com)
