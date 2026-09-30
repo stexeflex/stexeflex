@@ -48,6 +48,14 @@
 
 [![Play ZombieDefense](https://img.shields.io/badge/▶_PLAY-ZombieDefense-b91c1c?style=for-the-badge)](https://zombie-defense-stexeflex.onrender.com)
 
+### 🃏 UltraCardGame
+
+[![Play UltraCardGame](https://img.shields.io/badge/▶_PLAY-UltraCardGame-e11d48?style=for-the-badge)](https://ultracardgame-stexeflex.onrender.com)
+
+### 🛡️ Knight Fight
+
+[![Play Knight Fight](https://img.shields.io/badge/▶_PLAY-Knight_Fight-4f46e5?style=for-the-badge)](https://knightfight-stexeflex.onrender.com)
+
 ## 🛠️ Tools
 
 ### 🎭 FaceChanger · Face Lab
