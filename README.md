@@ -8,6 +8,10 @@
 
 ## 🕹️ Games
 
+### 🌑 Shadow Rogue (Online-Koop bis 4)
+
+[![Play Shadow Rogue](https://img.shields.io/badge/▶_PLAY-Shadow_Rogue-334155?style=for-the-badge)](https://shadowrogue-stexeflex.onrender.com)
+
 ### 🧟 ZombieFloor
 
 [![Play ZombieFloor](https://img.shields.io/badge/▶_PLAY-ZombieFloor-65a30d?style=for-the-badge)](https://zombiefloor-stexeflex.onrender.com)
