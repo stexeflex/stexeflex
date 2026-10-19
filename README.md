@@ -60,6 +60,12 @@
 
 [![Play Knight Fight](https://img.shields.io/badge/▶_PLAY-Knight_Fight-4f46e5?style=for-the-badge)](https://knightfight-stexeflex.onrender.com)
 
+### 🐒 Affenkrieg
+
+[![Play Affenkrieg](https://img.shields.io/badge/▶_PLAY-Affenkrieg-f59e0b?style=for-the-badge)](https://affenkrieg.onrender.com)
+
+Ein Projekt von [CodeMonkey1990420](https://github.com/CodeMonkey1990420/affenkrieg), an dem ich mitgearbeitet habe.
+
 ## 🛠️ Tools
 
 ### 🎭 FaceChanger · Face Lab
