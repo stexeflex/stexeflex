@@ -8,6 +8,10 @@
 
 ## 🕹️ Games
 
+### 🧠 Wantmore
+
+[![Play Wantmore](https://img.shields.io/badge/▶_PLAY-Wantmore-0891b2?style=for-the-badge)](https://wantmore.onrender.com)
+
 ### 🌑 Shadow Rogue (Online-Koop bis 4)
 
 [![Play Shadow Rogue](https://img.shields.io/badge/▶_PLAY-Shadow_Rogue-334155?style=for-the-badge)](https://shadowrogue-stexeflex.onrender.com)
