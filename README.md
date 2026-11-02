@@ -8,6 +8,10 @@
 
 ## 🕹️ Games
 
+### 🏰 Kartenkriege (Online-Koop für 2)
+
+[![Play Kartenkriege](https://img.shields.io/badge/▶_PLAY-Kartenkriege-92400e?style=for-the-badge)](https://kartenkriege-stexeflex.onrender.com)
+
 ### 🧠 Wantmore
 
 [![Play Wantmore](https://img.shields.io/badge/▶_PLAY-Wantmore-0891b2?style=for-the-badge)](https://wantmore.onrender.com)
